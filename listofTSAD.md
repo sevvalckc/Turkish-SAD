@@ -30,7 +30,11 @@ A thorough investigation was carried out on research papers related to 'sentimen
 | [TRSAv1: A New Benchmark Dataset for Classifying User Reviews on Turkish E-commerce Websites](https://journals.sagepub.com/doi/pdf/10.1177/01655515221074328?casa_token=SLDsalgZ0ocAAAAA:BCfUE8HCg62kFfbNKJUJIrEHRIGly74-6uLd1ibIIOI7sWtDuoDu2pschxtGze4Oyhg26bJoUWP_) | [TRSAv1](https://github.com/maydogan23/TRSAv1-Dataset) | Publicly Available | m.aydogan@firat.edu.tr |
 | [Multi-Label Classification of E-Commerce Customer Reviews via Machine Learning](https://www.mdpi.com/2075-1680/11/9/436) | [Turkish E-Commerce Reviews Dataset](https://github.com/emredeniz18/data) | Publicly Available | mustafacosar@hitit.edu.tr |
 | [Sentimental Analysis of Twitter Users from Turkish Content with Natural Language Processing](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2022/2455160) | [The Public Dataset](https://www.kaggle.com/datasets/mrtbeyz/trke-sosyal-medya-paylam-veri-seti) & [SentimentSet](https://www.kaggle.com/datasets/caglaballi/sentimentset) | Publicly Available | alok.mishra@himolde.no |
-| [A Dataset and BERT-based Models for Targeted Sentiment Analysis on Turkish Texts](https://arxiv.org/pdf/2205.04185) | melih.mutlu@boun.edu.tr arzucan.ozgur@boun.edu.tr |
+| [A Dataset and BERT-based Models for Targeted Sentiment Analysis on Turkish Texts](https://arxiv.org/pdf/2205.04185) | yok galiba bunu bir sor | xx | melih.mutlu@boun.edu.tr arzucan.ozgur@boun.edu.tr |
+| [A Novel COVID-19 Sentiment Analysis in Turkish based on the Combination of Convolutional Neural Network and Bidirectional Long-short Term Memory on Twitter](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.6883?casa_token=60k59dpfdCkAAAAA:fdTiJ7U4gU1dZ2xJCoVTKqs1VWPjn8nyFXCZnhixv6hzmfgmxZukp3ib2CZ-OFudsTVukG6vypUGPQ) | COVID-19 Dataset | Not Available | talhakabakus@duzce.edu.tr |
+| [Opinion Mining Using LSTM Networks Ensemble for Multi-class Sentiment Analysis in E-commerce](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9998264) | Dataset | Not Available | dalnahas@infina.com.tr fasik@infina.com.tr akanturvardar@infina.com.tr mulkgun@infina.com.tr | 
+| [BERT-based Transfer Learning Model for COVID-19 Sentiment Analysis on Turkish Instagram Comments](https://www.itc.ktu.lt/index.php/ITC/article/view/30276) | Dataset1 & Dataset2 | Not Available | d2014242@mersin.edu.tr akdagli@mersin.edu.tr caci@mersin.edu.tr |
+
 
 
 
