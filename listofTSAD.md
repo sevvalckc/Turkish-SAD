@@ -27,6 +27,8 @@ A thorough investigation was carried out on research papers related to 'sentimen
 | [An Annotated Turkish Aspect Based Sentiment Analysis Corpus for Smart Tourism](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9599037) | [Turkish Tourism ABSA Dataset](https://github.com/salurumut/Turkish-Aspect-Based-Sentiment-Analysis-Corpus-for-Smart-Tourism) | Publicly Available | mehmetumut.salur@gibtu.edu.tr iaydin@firat.edu.tr |
 | [Twitter Dataset and Evaluation of Transformers for Turkish Sentiment Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9477814&casa_token=x9OIXvmFAcYAAAAA:O0iEKC4ozn_WZ0UWZAKFtyhll-FJAv5GVHb2st2rLXy5QPAAO7-E10HcEB-xG3IfRMBN3cGggw) | [BounTİ Turkish Sentiment Analysis](https://github.com/boun-tabi/BounTi-Turkish-Sentiment-Analysis) | Publicly Available | abdullatif.koksal@boun.edu.tr arzucan.ozgur@boun.edu.tr |
 | [Aspect Based Twitter Sentiment Analysis on Vaccination and Vaccine Types in COVID-19 Pandemic With Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9640526&casa_token=by-s7bN7B8wAAAAA:FHLwDVxCTBaAlhBn6HQeeXOInW8OFPni-83tVN6P8sM97ZGbDECwIsZcIcc2A_ymIugqmBH0YQ) | [Covid 19 Vaccination Dataset](https://github.com/IrfanAygun/Covid-19-Vaccination-Dataset-and-Sentiment-Analysis) | Publicly Available | irfan.aygun@cbu.edu.tr bkaya@firat.edu.tr kaya@firat.edu.tr |
+| [TRSAv1: A New Benchmark Dataset for Classifying User Reviews on Turkish E-commerce Websites](https://journals.sagepub.com/doi/pdf/10.1177/01655515221074328?casa_token=SLDsalgZ0ocAAAAA:BCfUE8HCg62kFfbNKJUJIrEHRIGly74-6uLd1ibIIOI7sWtDuoDu2pschxtGze4Oyhg26bJoUWP_) | [TRSAv1](https://github.com/maydogan23/TRSAv1-Dataset) | Publicly Available | m.aydogan@firat.edu.tr |
+
 
 
 ## Usage
