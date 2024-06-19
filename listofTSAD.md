@@ -21,6 +21,8 @@ A thorough investigation was carried out on research papers related to 'sentimen
 | [A Real-time Social Network-based Knowledge Discovery System for Decision Making](https://hrcak.srce.hr/file/328239) | [Foursquare Venue and Venue Comments Data](https://data.mendeley.com/datasets/29tbvvwkdp/2) | Publicly Available | asimyuksel@sdu.edu.tr |
 | [Words, Meanings, Characters in Sentiment Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8554037) | [Dataset](https://github.com/mfatihamasyali/sentiment_deep_or_classical) | Publicly Available | mfatih@ce.yildiz.edu.tr hakantaskopru77@gmail.com kubra.clskn94@gmail.com | 
 | [Sentiment Analysis Through Transfer Learning for Turkish Language](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8778305&casa_token=XDgXfdiAdz8AAAAA:e3h6HWTt92lPs9GOtCXjZQWOFYPI2bHzxPNgoxTLxzpKJCIs7MPp-8OkQYhzLaogbgpIJ2_FaQ) | [Turkish Product Reviews Dataset](https://github.com/fthbrmnby/turkish-text-data) | Publicly Available | emre.akin02@bilgiedu.net tugba.yildiz@bilgi.edu.tr |
+| [Sentiment Analysis in Turkish Text with Machine Learning Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8946436) | Dataset | Not Available | merve.rumelli@ceng.deu.edu.tr deniz.akkus@ceng.deu.edu.tr ozge.kart@deu.edu.tr zerrin@cs.deu.edu.tr | 
+
 
 ## Usage
 
