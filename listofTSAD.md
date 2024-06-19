@@ -30,6 +30,7 @@ A thorough investigation was carried out on research papers related to 'sentimen
 | [TRSAv1: A New Benchmark Dataset for Classifying User Reviews on Turkish E-commerce Websites](https://journals.sagepub.com/doi/pdf/10.1177/01655515221074328?casa_token=SLDsalgZ0ocAAAAA:BCfUE8HCg62kFfbNKJUJIrEHRIGly74-6uLd1ibIIOI7sWtDuoDu2pschxtGze4Oyhg26bJoUWP_) | [TRSAv1](https://github.com/maydogan23/TRSAv1-Dataset) | Publicly Available | m.aydogan@firat.edu.tr |
 | [Multi-Label Classification of E-Commerce Customer Reviews via Machine Learning](https://www.mdpi.com/2075-1680/11/9/436) | [Turkish E-Commerce Reviews Dataset](https://github.com/emredeniz18/data) | Publicly Available | mustafacosar@hitit.edu.tr |
 | [Sentimental Analysis of Twitter Users from Turkish Content with Natural Language Processing](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2022/2455160) | [The Public Dataset](https://www.kaggle.com/datasets/mrtbeyz/trke-sosyal-medya-paylam-veri-seti) & [SentimentSet](https://www.kaggle.com/datasets/caglaballi/sentimentset) | Publicly Available | alok.mishra@himolde.no |
+| [A Dataset and BERT-based Models for Targeted Sentiment Analysis on Turkish Texts](https://arxiv.org/pdf/2205.04185) | melih.mutlu@boun.edu.tr arzucan.ozgur@boun.edu.tr |
 
 
 
