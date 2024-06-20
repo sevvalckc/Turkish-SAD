@@ -2,6 +2,12 @@
 
 This repository contains a Python script to perform sentiment analysis on Turkish text data using multiple pre-trained transformer models and list of Turkish Sentiment Analysis Datasets between 2012 to 2022.
 
+## Turkish Sentiment Analysis Datasets
+
+A thorough investigation was carried out on research papers related to 'sentiment analysis' and 'Turkish dataset' indexed on Scopus between 2012 and 2022*. 23 unique datasets were collected from publicly available sources and through email requests. This repository provides links to the publicly available Turkish datasets, as well as contact information for those that are not publicly available.
+
+*Search within Article Title, Abstract, Keywords: 'sentiment analysis' AND 'Turkish dataset'; Date range: 2012-2022; articles indexed in the Scopus database.
+
 ## Requirements
 
 - pandas
@@ -45,3 +51,5 @@ Enable High RAM:
 Go to Runtime > Manage sessions.
 Click on the current session.
 Select High-RAM from the options available.
+
+
