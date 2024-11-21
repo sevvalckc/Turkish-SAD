@@ -66,21 +66,19 @@ The repository provides:
 4. Run the script:
    python sentiment_analysis.py
 5. The script will output sentiment analysis results to CSV files for each model:
-
-peft_model_results.csv
-emre_model_results.csv
-bounti_model_results.csv
-xlm_model_results.csv
+- peft_model_results.csv
+- emre_model_results.csv
+- bounti_model_results.csv
+- xlm_model_results.csv
    
    
 
 ## Requirements
 The script requires the following Python libraries and versions:
-
-pandas==1.5.3
-torch==1.13.1
-transformers==4.26.1
-scipy==1.10.0
+- pandas
+- torch
+- transformers
+- scipy
 
 ## Install Requirements
 To install all required libraries, run:
