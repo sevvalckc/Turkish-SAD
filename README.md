@@ -4,14 +4,27 @@ This repository contains a Python script to perform sentiment analysis on Turkis
 
 ## Turkish Sentiment Analysis Datasets
 
-A thorough investigation was carried out on research papers related to 'sentiment analysis' and 'Turkish dataset' indexed on Scopus between 2012 and 2022*. 23 unique datasets were collected from publicly available sources and through email requests. This repository provides links to the publicly available Turkish datasets, as well as contact information for those that are not publicly available.
+A thorough investigation was carried out on research papers related to 'sentiment analysis' and 'Turkish dataset' indexed on Scopus between 2012 and 2022. 23 unique datasets were collected from publicly available sources and through email requests. This repository provides links to the publicly available Turkish datasets, as well as contact information for those that are not publicly available.
 
-*Search within Article Title, Abstract, Keywords: 'sentiment analysis' AND 'Turkish dataset'; Date range: 2012-2022; articles indexed in the Scopus database.
+### Search Details:
+- **Search Query:** `'sentiment analysis' AND 'Turkish dataset'`
+- **Fields:** Article Title, Abstract, Keywords
+- **Date Range:** 2012–2022
+- **Database:** Scopus
+
+The repository provides:
+- **Links** to publicly available datasets.
+- **Contact Information** for datasets not openly accessible.
+
+---
 
 ## Contents
 
-- [List of Datasets](#list-of-datasets)
-- [Usage](#usage)
+1. [List of Datasets](#list-of-datasets)
+2. [Usage](#usage)
+3. [Requirements](#requirements)
+4. [Pre-trained Models](#pre-trained-models-used)
+5. [Using Google Colab](#using-google-colab)
 
 ## List of Datasets
 
@@ -42,33 +55,46 @@ A thorough investigation was carried out on research papers related to 'sentimen
 
 ## Usage
 
-To use these datasets, you can clone this repository and refer to the individual dataset links for access and more detailed information.
+### Steps to Use:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/sevvalckc/Turkish-SAD.git
+   cd Turkish-SAD
+2. Install required libraries:
+   pip install -r requirements.txt
+3. Ensure your datasets (e.g., data1.csv, data2.csv) are placed in the same directory as the script.
+4. Run the script:
+   python sentiment_analysis.py
+5. The script will output sentiment analysis results to CSV files for each model:
+
+peft_model_results.csv
+emre_model_results.csv
+bounti_model_results.csv
+xlm_model_results.csv
+   
+   
 
 ## Requirements
+The script requires the following Python libraries and versions:
 
-- pandas
-- torch
-- transformers
-- scipy
+pandas==1.5.3
+torch==1.13.1
+transformers==4.26.1
+scipy==1.10.0
 
-You can install the required packages using pip:
+## Install Requirements
+To install all required libraries, run:
+pip install -r requirements.txt
+sv) for each model.
 
-```bash
-pip install pandas torch transformers scipy
-Usage
-
-Ensure you have the necessary datasets in the same directory as the script.
-Adjust the script if needed to filter your DataFrame properly (df_filtered).
-Run the script:
-The script will output the sentiment analysis results to CSV files (peft_model_results.csv, emre_model_results.csv, bounti_model_results.csv, xlm_model_results.csv) for each model.
-
-Pre-trained Models Used
+## Pre-trained Models Used
 
 peft_model: VRLLab/TurkishBERTweet-Lora-SA
 emre_model: emre/turkish-sentiment-analysis
 bounti_model: akoksal/bounti
 xlm_model: cardiffnlp/twitter-xlm-roberta-base-sentiment
-Using Google Colab
+
+## Using Google Colab
 
 Enabling TPU and High RAM
 
