@@ -75,10 +75,10 @@ The repository provides:
 
 ## Requirements
 The script requires the following Python libraries and versions:
-- pandas
-- torch
-- transformers
-- scipy
+- Pandas version: 2.2.2
+- PyTorch version: 2.5.1+cu121
+- Transformers version: 4.46.2
+- Scipy version: 1.13.1
 
 ## Install Requirements
 To install all required libraries, run:
