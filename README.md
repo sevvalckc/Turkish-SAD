@@ -65,13 +65,8 @@ The repository provides:
 3. Ensure your datasets (e.g., data1.csv, data2.csv) are placed in the same directory as the script.
 4. Run the script:
    python sentiment_analysis.py
-5. The script will output sentiment analysis results to CSV files for each model:
-- peft_model_results.csv
-- emre_model_results.csv
-- bounti_model_results.csv
-- xlm_model_results.csv
-   
-   
+5. The script will output sentiment analysis results to CSV files for each model.
+
 
 ## Requirements
 The script requires the following Python libraries and versions:
@@ -87,10 +82,10 @@ sv) for each model.
 
 ## Pre-trained Models Used
 
-peft_model: VRLLab/TurkishBERTweet-Lora-SA
-emre_model: emre/turkish-sentiment-analysis
-bounti_model: akoksal/bounti
-xlm_model: cardiffnlp/twitter-xlm-roberta-base-sentiment
+TurkishBERTweet: VRLLab/TurkishBERTweet-Lora-SA
+TSAM: emre/turkish-sentiment-analysis
+BERTurk: akoksal/bounti
+XLM-T: cardiffnlp/twitter-xlm-roberta-base-sentiment
 
 ## Using Google Colab
 
@@ -98,9 +93,8 @@ Enabling TPU and High RAM
 
 To use this script on Google Colab with TPU and high RAM, follow these steps:
 
-Open Google Colab: Go to Google Colab.
-
-Upload the script: Upload sentiment_analysis.py and your datasets (data1.csv, data2.csv) to Colab.
+- Open Google Colab: Go to Google Colab.
+- Upload the script: Upload sentiment_analysis.py and your datasets (data1.csv, data2.csv) to Colab.
 
 Enable TPU:
 
