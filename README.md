@@ -1,6 +1,6 @@
 # Turkish-SAD
 
-This repository contains a Python script to perform sentiment analysis on Turkish text data using multiple pre-trained transformer models and list of Turkish Sentiment Analysis Datasets between 2012 to 2022.
+This repository provides a collection of Turkish Sentiment Analysis Datasets from 2012 to 2022, covering various domains. It includes access links for publicly available datasets and contact information for non-public datasets.  It also includes a Python script for sentiment analysis using pre-trained transformer models. 
 
 ## Turkish Sentiment Analysis Datasets
 
