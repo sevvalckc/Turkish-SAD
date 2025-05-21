@@ -28,6 +28,18 @@ The repository provides:
 
 ## List of Datasets
 
+| Author(s), Year               | Dataset Name (as in paper)                            | Source                               | Availability     | Notes / Contact / Reuse Info                                                                                                                |
+|------------------------------|--------------------------------------------------------|--------------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Demirtas & Pechenizkiy, 2013 | Turkish Movie Reviews, Turkish Multidomain Product Reviews | Beyazperde.com, Hepsiburada.com | Public           | [Paper](https://doi.org/10.1145/2502069.2502078) / [Download](https://www.win.tue.nl/~mpechen/projects/smm/#Datasets) / e.demirtas@student.tue.nl, m.pechenizkiy@tue.nl |
+| Parlar, 2016                 | Turkish Multidomain Product Reviews                   | Hepsiburada.com                      | Public           | [Paper](https://ab.org.tr/ab16/bildiri/AB16-55.pdf) / *Reused from Demirtas & Pechenizkiy (2013)*                                          |
+| Cetin et al., 2013           | Telecom Dataset A & B                                 | Twitter                              | Not Available    | [No Public Link]                                                                                                                             |
+| Isguder & Sahin, 2014        | Ekşi Sözlük Technology Brand Comments                 | Ekşi Sözlük                          | Not Available    | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6973514)                                                                   |
+| Turkmenoglu & Cadırci, 2014  | Twitter Dataset, Movie Dataset                        | Twitter, Beyazperde.com              | Not Available    | [Paper](https://www.researchgate.net/publication/328255429_Sentiment_Analysis_in_Turkish_Media) / turkmenogluc@itu.edu.tr, tantug@itu.edu.tr |
+| Coban et al., 2015           | Twt                                                    | Twitter                              | Not Available    | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7130362) / onder.coban@atauni.edu.tr, baris.ozyer@atauni.edu.tr, gulsah.ozyer@atauni.edu.tr |
+| Ekinci & Güler, 2016         | Turkcell Twitter Dataset, TTNet Twitter Dataset       | Twitter                              | Not Available    | [Paper](https://ab.org.tr/ab16/bildiri/AB16-93.pdf)                                                                                         |
+| Ogul, 2016                   | Hotel Reviews Dataset                                 | Booking.com, Tripadvisor.com         | Not Available    | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7495786)                                                                   |
+
+
 | Articles     | Datasets           | Status      | Contact Info |
 | ------------------ | ---------------------- | ----------------- | --- |
 | [Cross-lingual Polarity Detection with Machine Translation](https://dl.acm.org/doi/pdf/10.1145/2502069.2502078?casa_token=RpBnOZk_7IEAAAAA:zxehldkECOfZPAr83Mdys0EZxSpQgKMYzhiiCzhKc1sFRH8dcXnqfr6QecAK_vZZAP6mzMB-TeHU)    | [Turkish Movie Reviews & Turkish Multidomain Products Reviews](https://www.win.tue.nl/~mpechen/projects/smm/#Datasets) | Publicly Available | e.demirtas@student.tue.nl m.pechenizkiy@tue.nl|
