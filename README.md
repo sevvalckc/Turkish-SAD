@@ -57,6 +57,35 @@ The repository provides:
 | [Rumelli et al., 2019](https://ieeexplore.ieee.org/document/8945268) | Hepsiburada Product Reviews | E-commerce Reviews | Not Available | merve.rumelli@ceng.deu.edu.tr, deniz.akkus@ceng.deu.edu.tr, ozge.kart@deu.edu.tr, zerrin@cs.deu.edu.tr |
 | [Shehu et al., 2019](https://watermark.silverchair.com/080004_1_online.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAyswggMnBgkqhkiG9w0BBwagggMYMIIDFAIBADCCAw0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMOp7va0bqTkULhcO3AgEQgIIC3iq40qIR2y2ysI8UDHtKSV6WWaIWg3kckzM_CgR3XJnX_ymFSVUQGJj7UMkh-SjLRGkM0gwv8cJrnRHFFBzqMJoUA2YZELNVxwcAXnSqFgvb6rF48Ca1CQvF-opeqGI0xu2JvVc1d1vvTOEU8PzIU5OTYlC9Ukwl7cloPHqUKUqMVtCd4VoR0B3RRr3ekKTZa_vj5lTrWFuHoZkCTbLAhAL4jTUvNVp63W5Hx_anLUPGN8JMUlb3D3GSbgIWatc2zmRRHI7WQDlYYZnqq2yqdtUEYhBZ5_ziGCUCrHXLNRvyzRvJmYgqRvEQmAEN8E51bNndoeiAGvuDzpvYSwJbja4JcknCdUdFGt57boRH_VH1IPacuw3xDcPnpOl9r7-QeADttZMMKGx0fxjeolKV9FFBkxEo5S-QaQvCHqg4DJT0aRijtNb_o2jtLxxXa2esWVGAa6RshpIr7hgptfB8ycKkCY3ZqBEbaJswQ8ZuqkxrSBskKnSk7uENSv6RlrC1JRqaBMWRITjwvuIoE34oeRP4HnpOZk3h8M0ubTD1PcbBIyKzuH8YwKzg9AJVQ1XYVV5upzNXVUpK4vclfir0kFwK_zgQo0m7nsLAwhGA57VBtZFkQD3igqRfP-6DaOhAByyQY9NYvB3ONYLJRhOCbNBawxGxO5ajpBJDLUVoeCxoJdjUo-Viyv9SqYRJt12UDYh4in-WhKXyJ3l3mlNjyTx79UT0GKZxpB2NuhdYA21vm9phPg53KFft9GDlAAsapM72YIWkPh67B-b3URpHGzhjwG9no22X3ZmxcvfTn4uvkes1vIVVFEn8aaS1wGqBgB2IAJcCT50N6CApvzTdFo0P--fKlYI75QTPe79SxZgPUL2QYJZdGE2k6TQ6peNQuKw6kMpihAPQ9sXHbensvhPnIkooQv-YjtHwDoj4jKH8yGXqgWZ2zFJs7kz9ZgYHysgwvOK1LxfgouB7iOz-) | Turkish Twitter Dataset | Tweets | Not Available | harisushehu@gmail.com stokat@pau.edu.tr md.sharif@uoh.edu.sa uyaver@tau.edu.tr |
 | [Erşahin et al., 2019](https://journals.tubitak.gov.tr/elektrik/vol27/iss3/16) | VS1 - [Movie Review](http://humirapps.cs.hacettepe.edu.tr/tsad.aspx) (Reused from Uçan et al., 2016), VS2 - [Hotel Review](http://humirapps.cs.hacettepe.edu.tr/tsad.aspx) (Reused from Uçan et al., 2016), VS3 - [Twitter Dataset](http://www.kemik.yildiz.edu.tr) (Reused from Amasyalı et al., 2018) | Comment & Tweet | Public | buketoksuzoglu@iyte.edu.tr hakankara@iyte.edu.tr ozge.kart@deu.edu.tr zerrin@cs.deu.edu.tr |
+| [Karamollaoğlu et al., 2019](https://ieeexplore.ieee.org/document/8993416) | Dataset | Twitter | Not Public | h.karamollaoglu@euas.gov.tr iadogru@gazi.edu.tr oyildiz@gazi.edu.tr nursal@gazi.edu.tr |
+| [Bayraktar, Yavuoğlu & Özbilen, 2019](https://ieeexplore.ieee.org/document/9005947) | [SemEval 2016 ABSA Turkish Restaurant Dataset](http://alt.qcri.org/semeval2016/task5/) *Reused from [Pontiki et al., (2016)](http://alt.qcri.org/semeval2016/task5/)* | Restaurant reviews (SemEval) | Public | Contains 1232 train / 144 test sentences. Used for aspect-based sentiment analysis. bayraktarkivanc@gmail.com |
+| [Demirci, Keskin & Doğan, 2019](https://ieeexplore.ieee.org/document/9005952) | Twitter Dataset | Twitter | Not Available | demirci18@itu.edu.tr serefrecepkeskin@gmail.com dogang@uncw.edu|
+| [Güven, Diri & Çakaloğlu, 2020](https://doi.org/10.17341/gazimmfd.556104) | Turkish Twitter Emotion Dataset | Twitter | Not Available |  zekeriya.anil.guven@ege.edu.tr diri@yildiz.edu.tr txcakaloglu@ualr.edu |
+| [Shehu & Tokat, 2020](https://www.researchgate.net/publication/338362981_A_Hybrid_Approach_for_the_Sentiment_Analysis_of_Turkish_Twitter_Data) | Turkish Twitter Dataset | Twitter | Not Available | harisushehu@gmail.com, stokat@pau.edu.tr |
+| [Kilimci, 2020](https://www.researchgate.net/profile/Zeynep-Kilimci/publication/338124910_Borsa_tahmini_icin_Derin_Topluluk_Modellleri_DTM_ile_finansal_duygu_analizi/links/5e0b12ba4585159aa4a70b0f/Borsa-tahmini-icin-Derin-Topluluk-Modellleri-DTM-ile-finansal-duygu-analizi.pdf) | Turkish Financial Twitter Dataset | Twitter | Not Available | hkilimci@dogus.edu.tr |
+| [Kilimci, Yoruk & Akyokus, 2020](https://ieeexplore.ieee.org/document/9155261) | Turkish Mobile Game Reviews Dataset | Google Play Store | Not Available | zeynep.kilimci@kocaeli.edu.tr yoruk.h@gmail.com sakyokus@medipol.edu.tr |
+| [Sigirci et al., 2020](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9219407) | Turkish Google Play Reviews Dataset | Google Play Store | Not Available | onu.sigirci@loodos.com |
+| [Açıkalın, Bardak & Kutlu, 2020](https://ieeexplore.ieee.org/document/9302492) | Movie & Hotel Reviews *Reused from [Uçan et al., (2016)](http://humirapps.cs.hacettepe.edu.tr/tsad.aspx)* | Beyazperde.com, Otelpuan.com | Public | u.acikalin@etu.edu.tr |
+| [Alqaraleh, 2021](https://doi.org/10.34028/18/4/7) | Turkish Movie Reviews *Reused from [Demirtas & Pechenizkiy, (2013)](https://www.win.tue.nl/~mpechen/projects/smm/#Datasets)* | Beyazperde.com | Public | saed.alqaraleh@hku.edu.tr |
+| [Kılıç & Büyükeke, 2021](https://doi.org/10.1109/UBMK52708.2021.9558976) | TripAdvisor, Blog, and IMDb Turkish Reviews Datasets | TripAdvisor, Blog, IMDb | Not Available | yasir.kilic@atu.edu.tr, abuyukeke@atu.edu.tr |
+| [Eker, Eker & Duru, 2021](https://ieeexplore.ieee.org/document/9558958) | [Turkish Tweets Dataset](https://www.kaggle.com/anil1055/turkish-tweet-dataset) *Reused from [Güven et al., (2020)](https://doi.org/10.17341/gazimmfd.556104)* | Twitter | Public | aysegul.eker@kocaeli.edu.tr |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
