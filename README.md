@@ -37,11 +37,33 @@ The repository provides:
 | [Coban et al., 2015](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7130362)                             | Twt                                                                                             | Twitter                              | Not Available    | onder.coban@atauni.edu.tr, baris.ozyer@atauni.edu.tr, gulsah.ozyer@atauni.edu.tr                                       |
 | [Ekinci & Güler, 2016](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7495714)                        | Turkcell Twitter Dataset, TTNet Twitter Dataset                                                 | Twitter                              | Not Available    | meryemeknc@gmail.com, saidozcn@gmail.com, mfatih@ce.yildiz.edu.tr                                                       |
 | [Ogul, 2016](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7495786)                                 | Hotel Reviews Dataset                                                                           | Booking.com, Tripadvisor.com         | Not Available    | n14241878@cs.hacettepe.edu.tr, gonenc@cs.hacettepe.edu.tr                                                                |
-| [Parlar, 2016](https://www.researchgate.net/profile/Tuba-Parlar/publication/308570079_A_new_feature_selection_method_for_sentiment_analysis_of_Turkish_reviews/links/5a2179110f7e9b71dd031791/A-new-feature-selection-method-for-sentiment-analysis-of-Turkish-reviews.pdf) | Turkish Multidomain Product Reviews | Hepsiburada.com | Public           | *Reused* *(from [Demirtas & Pechenizkiy, 2013](https://www.win.tue.nl/~mpechen/projects/smm/#Datasets))*  |
+| [Parlar, 2016](https://www.researchgate.net/profile/Tuba-Parlar/publication/308570079_A_new_feature_selection_method_for_sentiment_analysis_of_Turkish_reviews/links/5a2179110f7e9b71dd031791/A-new-feature-selection-method-for-sentiment-analysis-of-Turkish-reviews.pdf) | Turkish Multidomain Product Reviews | Hepsiburada.com | Public           | *Reused* *from [Demirtas & Pechenizkiy, (2013)](https://www.win.tue.nl/~mpechen/projects/smm/#Datasets)*  |
 | [Ucan et al., 2016](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7475237) | Movie Review, Hotel Review | Beyazperde.com, Otelpuan.com | Not Available | aucan@hacettepe.edu.tr, n.behzad@hacettepe.edu.tr, ebru@hacettepe.edu.tr, sever@hacettepe.edu.tr |
 | [Ucan et al., 2016](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7475237) | [Movie Review, Hotel Review](http://humirapps.cs.hacettepe.edu.tr/tsad.aspx) | Beyazperde.com, Otelpuan.com | Public | ebru@hacettepe.edu.tr, aucan@hacettepe.edu.tr, n.behzad@hacettepe.edu.tr, sever@hacettepe.edu.tr |
 | [Ayata et al., 2017](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7960519) | [Retail, Telecom, Football, and Banking Tweets](https://www.baskent.edu.tr/~msert/research/datasets/SentimentDatasetTR.html) | Twitter | Public | ahayran@baskent.edu.tr, msert@baskent.edu.tr |
 | [Parlar, Saraç & Özel, 2017](https://www.researchgate.net/publication/318037151_Comparison_of_feature_selection_methods_for_sentiment_analysis_on_Turkish_Twitter_data) | Turkish Twitter Dataset | Twitter | Not Available | *Reused from Çetin & Amasyalı (2013)* tparlar@mku.edu.tr esrasarac@adanabtu.edu.tr saozel@cu.edu.t |
+| [Hayran & Sert, 2017](https://ieeexplore.ieee.org/document/7960519) | [Turkish Sentiment Dataset](https://www.baskent.edu.tr/~msert/research/datasets/SentimentDatasetTR.html) | Twitter | Public | ahayran@baskent.edu.tr, msert@baskent.edu.tr |
+| [Omurca, Ekinci & Türkmen, 2017]([http://dx.doi.org/10.13140/RG.2.2.13338.44488](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8090212)) | [Turkish Hotel Review Dataset (annotated)](http://dx.doi.org/10.13140/RG.2.2.13338.44488) | Otelpuan.com | Public | silhan@kocaeli.edu.tr ekin.ekinci@kocaeli.edu.tr hazal.turkmen@kocaeli.edu.tr |
+| [Mulki, Haddad, Ali & Babaoğlu, 2018](https://doi.org/10.1109/SIU.2018.8404718) | Turkish Movie & Multidomain Product Reviews | Hepsiburada.com | Public           | *Reused* *from [Demirtas & Pechenizkiy, (2013)](https://www.win.tue.nl/~mpechen/projects/smm/#Datasets)*  |
+| [Yüksel & Tan, 2018](https://hrcak.srce.hr/file/328239) | [Foursquare Venue and Comments Data](https://data.mendeley.com/datasets/29tbvvwkdp/2) | Foursquare | Public | asimyuksel@sdu.edu.tr |
+| [Ay Karakuş, Talo, Hallaç & Aydın, 2018]([https://doi.org/10.1002/cpe.4783](https://www.researchgate.net/profile/Betul-Ay-2/publication/326443062_Evaluating_deep_learning_models_for_sentiment_classification/links/5b5087fa0f7e9b240fede03d/Evaluating-deep-learning-models-for-sentiment-classification.pdf)) | [Turkish Movie Reviews Dataset](http://buyukveri.firat.edu.tr) | Beyazperde.com | Public | betulaykarakus@gmail.com, mtalo@firat.edu.tr, irhallac@firat.edu.tr, gaydin@firat.edu.tr |
+| [Yurtalan, Koyuncu & Turhan, 2019](https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1724&context=elektrik) | Turkish Twitter Dataset | Twitter | Not Available | mkoyuncu@atilim.edu.tr |
+| [Amasyalı, Taşköprü & Çalışkan, 2018](https://doi.org/10.1109/ASYU.2018.8554037) | [Turkish Telecom Twitter Dataset](https://github.com/mfatihamasyali/sentiment_deep_or_classical) | Twitter | Public | mfatih@ce.yildiz.edu.tr, hakantaskopru77@gmail.com, kubra.clskn94@gmail.com |
+| [Çiftçi & Apaydın, 2019](https://doi.org/10.1109/IDAP.2018.8620751) | Turkish Product & Movie Reviews Dataset | Hepsiburada.com & Beyazperde.com | Not Available | basri.ciftci@std.sehir.edu.tr apaydin@sehir.edu.tr |
+| [Çoban & Özyer, 2018](https://doi.org/10.1109/IDAP.2018.8620757) | [VS1 - 3000 Turkish Tweets](http://www.kemik.yildiz.edu.tr/data/File/3000tweet.rar), [VS2 - *Reused from Hayran & Sert (2017)](http://www.baskent.edu.tr/~msert/research/datasets/SentimentDatasetTR.html)* | Twitter | Public | ocoban@cu.edu.tr gulsah.ozyer@atauni.edu.tr |
+| [Oğul & Güran, 2019](https://doi.org/10.1109/UBMK.2019.8907041) | VS1 - [SemEval-2017 Task 4](http://alt.qcri.org/semeval2017/task4/index.php?id=download-thefull-training-data-for-semeval-2017-task-4), VS2 - *Reused from Amasyalı et al. (2018)*, VS3 - [CrowdFlower Airline Dataset](https://www.kaggle.com/crowdflower/twitter-airline-sentiment) | Twitter | Public / Not Public | 20172105039@dogus.edu.tr adogrusoz@dogus.edu.tr | 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
