@@ -49,8 +49,10 @@ The repository provides:
 | [Yurtalan, Koyuncu & Turhan, 2019](https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1724&context=elektrik) | Turkish Twitter Dataset | Twitter | Not Available | mkoyuncu@atilim.edu.tr |
 | [Amasyalı, Taşköprü & Çalışkan, 2018](https://doi.org/10.1109/ASYU.2018.8554037) | [Turkish Telecom Twitter Dataset](https://github.com/mfatihamasyali/sentiment_deep_or_classical) | Twitter | Public | mfatih@ce.yildiz.edu.tr, hakantaskopru77@gmail.com, kubra.clskn94@gmail.com |
 | [Çiftçi & Apaydın, 2019](https://doi.org/10.1109/IDAP.2018.8620751) | Turkish Product & Movie Reviews Dataset | Hepsiburada.com & Beyazperde.com | Not Available | basri.ciftci@std.sehir.edu.tr apaydin@sehir.edu.tr |
-| [Çoban & Özyer, 2018](https://doi.org/10.1109/IDAP.2018.8620757) | [VS1 - 3000 Turkish Tweets](http://www.kemik.yildiz.edu.tr/data/File/3000tweet.rar), [VS2 - Reused from Hayran & Sert (2017)](http://www.baskent.edu.tr/~msert/research/datasets/SentimentDatasetTR.html) | Twitter | Public | ocoban@cu.edu.tr gulsah.ozyer@atauni.edu.tr |
+| [Çoban & Özyer, 2018](https://doi.org/10.1109/IDAP.2018.8620757) | VS1 - [3000 Turkish Tweets](http://www.kemik.yildiz.edu.tr/data/File/3000tweet.rar), VS2 - *Reused from [Hayran & Sert (2017)](http://www.baskent.edu.tr/~msert/research/datasets/SentimentDatasetTR.html)* | Twitter | Public | ocoban@cu.edu.tr gulsah.ozyer@atauni.edu.tr |
 | [Oğul & Güran, 2019](https://doi.org/10.1109/UBMK.2019.8907041) | VS1 - [SemEval-2017 Task 4](http://alt.qcri.org/semeval2017/task4/index.php?id=download-thefull-training-data-for-semeval-2017-task-4), VS2 - *Reused from [Amasyalı et al. (2018)](https://github.com/mfatihamasyali/sentiment_deep_or_classical)*, VS3 - [CrowdFlower Airline Dataset](https://www.kaggle.com/crowdflower/twitter-airline-sentiment) | Twitter | Public | 20172105039@dogus.edu.tr adogrusoz@dogus.edu.tr | 
+| [Uslu, Tekin & Aytekin, 2019](https://doi.org/10.1109/SIU.2019.8806355) | VS1 - [YTÜ/Kemik Dataset - amasyali@yildiz.edu.tr](http://www.kemik.yildiz.edu.tr/), VS2 - Beyazperde, VS3 - Beyazperde, VS4 - Beyazperde| Movie Comments | Not Available | abdullah.uslu@bahcesehir.edu.tr sefa.tekin@bahcesehir.edu.tr tevfik.aytekin@eng.bau.edu.tr |
+
 
 
 
@@ -101,6 +103,7 @@ The repository provides:
 | [A Novel COVID-19 Sentiment Analysis in Turkish based on the Combination of Convolutional Neural Network and Bidirectional Long-short Term Memory on Twitter](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.6883?casa_token=60k59dpfdCkAAAAA:fdTiJ7U4gU1dZ2xJCoVTKqs1VWPjn8nyFXCZnhixv6hzmfgmxZukp3ib2CZ-OFudsTVukG6vypUGPQ) | COVID-19 Dataset | Not Available | talhakabakus@duzce.edu.tr |
 | [Opinion Mining Using LSTM Networks Ensemble for Multi-class Sentiment Analysis in E-commerce](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9998264) | Dataset | Not Available | dalnahas@infina.com.tr fasik@infina.com.tr akanturvardar@infina.com.tr mulkgun@infina.com.tr | 
 | [BERT-based Transfer Learning Model for COVID-19 Sentiment Analysis on Turkish Instagram Comments](https://www.itc.ktu.lt/index.php/ITC/article/view/30276) | Dataset1 & Dataset2 | Not Available | d2014242@mersin.edu.tr akdagli@mersin.edu.tr caci@mersin.edu.tr |
+
 
 
 ## Usage
