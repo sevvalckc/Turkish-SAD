@@ -69,6 +69,13 @@ The repository provides:
 | [Alqaraleh, 2021](https://doi.org/10.34028/18/4/7) | Turkish Movie Reviews *Reused from [Demirtas & Pechenizkiy, (2013)](https://www.win.tue.nl/~mpechen/projects/smm/#Datasets)* | Beyazperde.com | Public | saed.alqaraleh@hku.edu.tr |
 | [Kılıç & Büyükeke, 2021](https://doi.org/10.1109/UBMK52708.2021.9558976) | TripAdvisor, Blog, and IMDb Turkish Reviews Datasets | TripAdvisor, Blog, IMDb | Not Available | yasir.kilic@atu.edu.tr, abuyukeke@atu.edu.tr |
 | [Eker, Eker & Duru, 2021](https://ieeexplore.ieee.org/document/9558958) | [Turkish Tweets Dataset](https://www.kaggle.com/anil1055/turkish-tweet-dataset) *Reused from [Güven et al., (2020)](https://doi.org/10.17341/gazimmfd.556104)* | Twitter | Public | aysegul.eker@kocaeli.edu.tr |
+| [Salur & Aydın, 2021](https://ieeexplore.ieee.org/abstract/document/9599037) | [Turkish ABSA Tourism Corpus](https://github.com/salurumut/Turkish-Aspect-Based-Sentiment-Analysis-Corpus-For-Smart-Tourism) | TripAdvisor | Public | mehmetumut.salur@gibtu.edu.tr |
+| [Aydın & Güngör, 2021](https://doi.org/10.1017/S1351324920000200) | Movie Reviews *Reused from [Türkmenoğlu & Cadırci, (2014)](https://d1wqtxts1xzle7.cloudfront.net/108813139/download_jsessionid_00E6A9E756589AC939F407A7F15D5AA8-libre.pdf)*, Twitter Dataset *Reused from [Amasyalı et al., (2018)](https://github.com/mfatihamasyali/sentiment_deep_or_classical)* | Beyazperde.com, Twitter | Public | cem.aydin1@boun.edu.tr |
+| [Zeybek, Koç & Seçer, 2021](https://doi.org/10.1080/23311916.2021.1893621) | [MS-TR Treebank](https://data.mendeley.com/datasets/nz7vm5rchd/1), *Built upon Turkish Sentiment Treebank (TSTB)* | Movie reviews, opinionated texts | Public | sultan.zeybek@fsm.edu.tr |
+
+
+
+
 
 
 
