@@ -9,17 +9,16 @@ To build this repository, we systematically reviewed academic studies indexed in
 - Used classification models on labeled Turkish sentiment datasets and reported results, or
 - Contributed novel Turkish datasets suitable for future modeling.
 
-The final collection includes 78 studies and over 80 datasets. Among these:
-- More than 30 datasets are publicly available and linked,
-- Others are listed with author contacts for access,
-- Reused datasets are referenced with their original sources.
-
 ### Search Details:
 - **Query:** `'sentiment analysis' AND 'Turkish dataset'`
 - **Databases:** Scopus
 - **Document Types:** Conference papers, journal articles, book chapters
 - **Date Range:** 2012–2025
 
+The final collection includes 78 studies and over 80 datasets. Among these:
+- More than 30 datasets are publicly available and linked,
+- Others are listed with author contacts for access,
+- Reused datasets are referenced with their original sources.
 
 The repository provides:
 - **Links** to publicly available datasets
