@@ -10,7 +10,7 @@ To build this repository, we systematically reviewed academic studies indexed in
 - Contributed novel Turkish datasets suitable for future modeling.
 
 The final collection includes 78 studies and over 80 datasets. Among these:
-- More than 60 datasets are publicly available and linked,
+- More than 30 datasets are publicly available and linked,
 - Others are listed with author contacts for access,
 - Reused datasets are referenced with their original sources.
 
