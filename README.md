@@ -16,28 +16,15 @@ The final collection includes 78 studies and over 80 datasets. Among these:
 
 ### Search Details:
 - **Query:** `'sentiment analysis' AND 'Turkish dataset'`
-- **Databases:** Scopus, IEEE Xplore, ACL Anthology, arXiv, MDPI, etc.
+- **Databases:** Scopus
 - **Document Types:** Conference papers, journal articles, book chapters
 - **Date Range:** 2012–2025
 
-The repository includes:
-- 📂 **Dataset links** (where available)
-- ✉️ **Contact emails** for closed datasets
-- 🔁 **Reuse citations**
-- 📊 **Metadata** such as domain, size, and labeling method
-
-
-### Search Details:
-- **Search Query:** `'sentiment analysis' AND 'Turkish dataset'`
-- **Fields:** Article Title, Abstract, Keywords
-- **Date Range:** 2012–2025
-- **Databases:** Scopus, IEEE Xplore, arXiv, MDPI, ACL Anthology, and others
 
 The repository provides:
 - **Links** to publicly available datasets
 - **Contact Information** for datasets that are not openly accessible
 - **Reuse Citations** for datasets previously published or used in multiple studies
-- **Dataset Metadata** including domain, size, source, and sentiment labeling method
 
 
 ---
@@ -52,7 +39,7 @@ The repository provides:
 
 ## List of Datasets
 
-| Author(s), Year (with link)                                                                                   | Dataset Name (with download link if available)                                                 | Source                               | Availability     | Notes / Contact / Reuse Info                                                                                             |
+| Author(s), Year (with link)                                                                                   | Dataset Name (with download link if available)                                                 | Source                               | Availability     |  Contact                                                                                             |
 |----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------|------------------|--------------------------------------------------------------------------------------------------------------------------|
 | [Demirtas & Pechenizkiy, 2013](https://dl.acm.org/doi/pdf/10.1145/2502069.2502078)                             | [Turkish Movie Reviews, Turkish Multidomain Product Reviews](https://www.win.tue.nl/~mpechen/projects/smm/#Datasets) | Beyazperde.com, Hepsiburada.com     | Public           | e.demirtas@student.tue.nl, m.pechenizkiy@tue.nl                                                                          |
 | [Cetin et al., 2013](http://www.kemik.yildiz.edu.tr/data/File/publications/Text%20Classification%20Clustering/Egiticili%20ve%20Geleneksel%20Terim%20Aglrllklandirma%20Yontemleriyle%20Duygu%20Analizi.pdf) | Telecom Dataset A & B                                                                          | Twitter                              | Not Available    | cetinmahmut@msn.com, mfatih@ce.yildiz.edu.tr                                                                             |
