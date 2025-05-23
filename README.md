@@ -1,20 +1,44 @@
 # Turkish-SAD
 
-This repository provides a collection of Turkish Sentiment Analysis Datasets from 2012 to 2022, covering various domains. It includes access links for publicly available datasets and contact information for non-public datasets.  It also includes a Python script for sentiment analysis using pre-trained transformer models. 
+This repository provides a comprehensive collection of Turkish Sentiment Analysis Datasets from 2012 to 2025, covering diverse domains such as social media, e-commerce, news, political commentary, and more. It includes access links for publicly available datasets, contact information for restricted datasets, and detailed reuse references. Additionally, the repository provides a Python script for sentiment analysis using pre-trained transformer models.
+
 
 ## Turkish Sentiment Analysis Datasets
 
-A thorough investigation was carried out on research papers related to 'sentiment analysis' and 'Turkish dataset' indexed on Scopus between 2012 and 2022. 23 unique datasets were collected from publicly available sources and through email requests. This repository provides links to the publicly available Turkish datasets, as well as contact information for those that are not publicly available.
+To build this repository, we systematically reviewed academic studies indexed in Scopus and other scholarly databases. The search focused on publications that applied sentiment analysis using Turkish-language data or introduced sentiment-labeled Turkish datasets. Inclusion criteria required that papers either:
+- Used classification models on labeled Turkish sentiment datasets and reported results, or
+- Contributed novel Turkish datasets suitable for future modeling.
+
+The final collection includes 78 studies and over 80 datasets. Among these:
+- More than 60 datasets are publicly available and linked,
+- Others are listed with author contacts for access,
+- Reused datasets are referenced with their original sources.
+
+### Search Details:
+- **Query:** `'sentiment analysis' AND 'Turkish dataset'`
+- **Databases:** Scopus, IEEE Xplore, ACL Anthology, arXiv, MDPI, etc.
+- **Document Types:** Conference papers, journal articles, book chapters
+- **Date Range:** 2012–2025
+
+The repository includes:
+- 📂 **Dataset links** (where available)
+- ✉️ **Contact emails** for closed datasets
+- 🔁 **Reuse citations**
+- 📊 **Metadata** such as domain, size, and labeling method
+
 
 ### Search Details:
 - **Search Query:** `'sentiment analysis' AND 'Turkish dataset'`
 - **Fields:** Article Title, Abstract, Keywords
-- **Date Range:** 2012–2022
-- **Database:** Scopus
+- **Date Range:** 2012–2025
+- **Databases:** Scopus, IEEE Xplore, arXiv, MDPI, ACL Anthology, and others
 
 The repository provides:
-- **Links** to publicly available datasets.
-- **Contact Information** for datasets not openly accessible.
+- **Links** to publicly available datasets
+- **Contact Information** for datasets that are not openly accessible
+- **Reuse Citations** for datasets previously published or used in multiple studies
+- **Dataset Metadata** including domain, size, source, and sentiment labeling method
+
 
 ---
 
