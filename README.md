@@ -72,85 +72,42 @@ The repository provides:
 | [Salur & Aydın, 2021](https://ieeexplore.ieee.org/abstract/document/9599037) | [Turkish ABSA Tourism Corpus](https://github.com/salurumut/Turkish-Aspect-Based-Sentiment-Analysis-Corpus-For-Smart-Tourism) | TripAdvisor | Public | mehmetumut.salur@gibtu.edu.tr |
 | [Aydın & Güngör, 2021](https://doi.org/10.1017/S1351324920000200) | Movie Reviews *Reused from [Türkmenoğlu & Cadırci, (2014)](https://d1wqtxts1xzle7.cloudfront.net/108813139/download_jsessionid_00E6A9E756589AC939F407A7F15D5AA8-libre.pdf)*, Twitter Dataset *Reused from [Amasyalı et al., (2018)](https://github.com/mfatihamasyali/sentiment_deep_or_classical)* | Beyazperde.com, Twitter | Public | cem.aydin1@boun.edu.tr |
 | [Zeybek, Koç & Seçer, 2021](https://doi.org/10.1080/23311916.2021.1893621) | [MS-TR Treebank](https://data.mendeley.com/datasets/nz7vm5rchd/1), *Built upon Turkish Sentiment Treebank (TSTB)* | Movie reviews, opinionated texts | Public | sultan.zeybek@fsm.edu.tr |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-| Articles     | Datasets           | Status      | Contact Info |
-| ------------------ | ---------------------- | ----------------- | --- |
-| [Cross-lingual Polarity Detection with Machine Translation](https://dl.acm.org/doi/pdf/10.1145/2502069.2502078?casa_token=RpBnOZk_7IEAAAAA:zxehldkECOfZPAr83Mdys0EZxSpQgKMYzhiiCzhKc1sFRH8dcXnqfr6QecAK_vZZAP6mzMB-TeHU)    | [Turkish Movie Reviews & Turkish Multidomain Products Reviews](https://www.win.tue.nl/~mpechen/projects/smm/#Datasets) | Publicly Available | e.demirtas@student.tue.nl m.pechenizkiy@tue.nl|
-| [Sentiment Analysis on Turkish Telecom Related Tweets](http://www.kemik.yildiz.edu.tr/data/File/publications/Text%20Classification%20Clustering/Egiticili%20ve%20Geleneksel%20Terim%20Aglrllklandirma%20Yontemleriyle%20Duygu%20Analizi.pdf) | Telecom Dataset A & B | Not Available | cetinmahmut@msn.com mfatih@ce.yildiz.edu.tr |
-| [Sentiment Analysis on Ekşi Sözlük Technology Brand Entries](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6973514) | Ekşi Sözlük Technology Brand Comments Dataset | Not Available | isguderg@itu.edu.tr harunzafer@gmail.com adali@itu.edu.tr |
-| [Sentiment Analysis in Turkish Media](https://d1wqtxts1xzle7.cloudfront.net/108813139/download_jsessionid_00E6A9E756589AC939F407A7F15D5AA8-libre.pdf?1702374670=&response-content-disposition=inline%3B+filename%3DSentiment_Analysis_in_Turkish_Media.pdf&Expires=1718288020&Signature=hIs~pjmOQj8v3IZhG~8a2hcBwBJZUOdzHJkj6T6ymw5sl865l64yuL0i5fmMRDm3~VL5PNvFAl3FFrDNKSiTD1PW3r3hbcZVyV-hfvghAuGl5kvgxMKzmt0Xjkzn35QlQfnWNm~pzA~mF6kbTx2KHJhWTrWiwd-m2vx-eSSoGCQjxkJKxBu5nZ-fauaKes3MWNfVqrp1y1DZRZJBOLP71phdfHXeDWGVBPbjZfdbrrwRgKXwLt2K4rhHIsJDKnfwQQ19WyqdUyGEJd4gAHZ~qybJcN6kCcGFzbgjjiLOw~81Rg2rLGqFqwdbRz0sY77n~jzb6s9vliXRwgoF35GBIQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) | Twitter Dataset & Movie Dataset | Not Available | turkmenogluc@itu.edu.tr tantug@itu.edu.tr |
-| [Sentiment Analysis for Turkish Twitter Feeds](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7130362&casa_token=vmqnO6gQ10cAAAAA:b9WagYcf23lutBy5cRr_osVl2blL418bpKYYgA_X_t1J2Td70uXciUzPJp1umnSEA5Iu9rEX-w&tag=1)| Twt | Not Available | onder.coban@atauni.edu.tr baris.ozyer@atauni.edu.tr gulsah.ozyer@atauni.edu.tr|
-| [Time Effect in Turkish Sentiment Analysis]([https://ab.org.tr/ab16/bildiri/AB16-93.pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7495714)) | Turkcell Twitter Dataset & TTNet Twitter Dataset | Not Available | meryemeknc@gmail.com saidozcn@gmail.com mfatih@ce.yildiz.edu.tr  |
-| [Sentiment Analysis on Hotel Reviews in Turkish with Supervised Learning Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7495786) | Hotel Reviews Dataset | Not Available | n14241878@cs.hacettepe.edu.tr gonenc}@cs.hacettepe.edu.tr |
-| [A New Feature Selection Method for Sentiment Analysis of Turkish Reviews]([https://ab.org.tr/ab16/bildiri/AB16-55.pdf](https://www.researchgate.net/profile/Tuba-Parlar/publication/308570079_A_new_feature_selection_method_for_sentiment_analysis_of_Turkish_reviews/links/5a2179110f7e9b71dd031791/A-new-feature-selection-method-for-sentiment-analysis-of-Turkish-reviews.pdf)) | Turkish Multidomain Product Reviews *(reused from [Demirtas & Pechenizkiy, 2013](https://www.win.tue.nl/~mpechen/projects/smm/#Datasets))* | Publicly Available | turgay.parlar@bilecik.edu.tr |
-| [SentiWordNet for New Language: Automatic Translation Approach](https://d1wqtxts1xzle7.cloudfront.net/65130268/07907484-libre.pdf?1607414911=&response-content-disposition=inline%3B+filename%3DSentiWordNet_for_New_Language_Automatic.pdf&Expires=1718805097&Signature=ezUBmNpJ6-fXT2dhe9OEn338g1YiMFwsptGvwQy4z~G6n-Es-rev7gUQxk-r8RyqMIKRXW0WJoWHlwmSZIF7hPE8BQhtTRzFeePYimrU9U7KPXb9fNSwh6QuXeTfTpk1c~nw~WY9PsajEw3sO2q10euvH4fym5cXRubk6uVP2wUmVhsCu-j-iqE80v66i4ihS75lQcifgciyYfVisyew6nC5MbYz9mz~7N2OufbdzAO1Hq~gZZlZIR1q3dIXB16BQJpmXpdqtNDR5vNRERpcWxjNfP3ffGi0ISVddPHKphiEj9OWx2C3gymx28b1jCpDVX8mFvPQM5X3E2c5CRpcYw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)| [Turkish Sentiment Analysis Dataset](http://humirapps.cs.hacettepe.edu.tr/tsad.aspx) | Publicly Available | aucan@hacettepe.edu.tr n.behzad@hacettepe.edu.tr ebru@hacettepe.edu.tr sever@hacettepe.edu.tr |
-| [Sentiment Analysis on Microblog Data based on Word Embedding and Fusion Techniques](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7960519) | [Turkish Sentiment Dataset](https://www.baskent.edu.tr/~msert/research/datasets/SentimentDatasetTR.html) | Publicly Available | ahayran@baskent.edu.tr msert@baskent.edu.tr |
-| [A Real-time Social Network-based Knowledge Discovery System for Decision Making](https://hrcak.srce.hr/file/328239) | [Foursquare Venue and Venue Comments Data](https://data.mendeley.com/datasets/29tbvvwkdp/2) | Publicly Available | asimyuksel@sdu.edu.tr |
-| [Words, Meanings, Characters in Sentiment Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8554037) | [Dataset](https://github.com/mfatihamasyali/sentiment_deep_or_classical) | Publicly Available | mfatih@ce.yildiz.edu.tr hakantaskopru77@gmail.com kubra.clskn94@gmail.com | 
-| [Sentiment Analysis Through Transfer Learning for Turkish Language](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8778305&casa_token=XDgXfdiAdz8AAAAA:e3h6HWTt92lPs9GOtCXjZQWOFYPI2bHzxPNgoxTLxzpKJCIs7MPp-8OkQYhzLaogbgpIJ2_FaQ) | [Turkish Product Reviews Dataset](https://github.com/fthbrmnby/turkish-text-data) | Publicly Available | emre.akin02@bilgiedu.net tugba.yildiz@bilgi.edu.tr |
-| [Sentiment Analysis in Turkish Text with Machine Learning Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8946436) | Dataset | Not Available | merve.rumelli@ceng.deu.edu.tr deniz.akkus@ceng.deu.edu.tr ozge.kart@deu.edu.tr zerrin@cs.deu.edu.tr | 
-| [Sentiment Analysis of Turkish Twitter Data](https://watermark.silverchair.com/080004_1_online.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABX4wggV6BgkqhkiG9w0BBwagggVrMIIFZwIBADCCBWAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMGeA0MMqVAinFop1ZAgEQgIIFMf92TiLj_AeQmds0l1lZ1hYtTIQpUbnRS8jsLy_dwUkolxYgHx2Urz5rE3g3zMtBCloHT8R1gQvmv7Kyd2XG_H-Ta8cNtDBptmrxFA8qVUfbELKqwQu4N_fVZqIO50Khl9sMiRArSSWUwM9P6wQSTZUKFgC0V1qC2T8qEdtXyQUHdv5uagkI4TmYbUb89HkXIjyF3xlN93oDd8Ph5tB0Ji7bXzpdeCH9NUeeF9PDXKEFJbwxDL3xP_XuNaKpE3npQ7isMKKXTbBN317PTrr6hr1oa_xSmnnvfWwkTnpQZ_sJLICo3enyxo4CsrLQvdYeaYOUxoPhoikZYhHh8o7UXRgvDlt2y11V1x5Og0RO-_U6HKTwEH6cxNLUYiTw1gkP0R3culTscG8pXFvEM8KeasTm6K-r7lf3TFLpkqWvCkWYMlsiq1U5nFD9DEoogEckRlcS5xodph51B1zw5k4NKaOIc2uYLkMpmfP9m-ebsArIZR1m9Y9JsyKOyM_9__o3F81sSudxcUxd2EFp8ngXFxugbHEgC8E7N6lRo2dwfcG0-ByFzDHA19juhGDDM5lT8qdceQ8Ja6daDLL-J9eZR3McayYQ8FzGY5fGj2WYKRj-0cpKGmqGsIoyNne3FzUQLtoU2WRhlcsKAwbjSZFlOQ0EBLTbjA9deFmW9QDydIPV6TdhRITnjPa1fdbxFNkMwBYwAGVdOJK7HA2dCQuQ9-i21g9a9yg-B7ywKALRre82taJWmNItMJI_VF1TJ-0egPlm_dxvZpClzogw0MkLDNpQh5CCrqOi4JASKdoVXrf8YnnsCizcDzIkYB6SacNlzxBgy6QiPlNaTu7JwSW-uwh5CBVjUw_rKHOv00gbvT4ugf2fn4Ay-cd1tp02k_wuH7wMB8DCv-fWxvuQV9ul1zqD-oZYyTbjMg7GHEk6FASacTIXunzVsOlgFo19WZXfGMdldUwosaumRiobaDUhHt_4scxtR7kRkeLWbmY2NEsV0kN9VdcMAn-43-FqL62OjciR0u-Jd25X51gcsb5lTR1ir_4C_gWNizoOd4Ks2Y631-FvYXufFfiq2uPa64rGikxs8TOMqUQ6mm698ec_uJjCWb7T_-B2qGTFS5mVZGKj8TlqOyLK7J0aVWR7QVvPBNRgH9E4seNLFJLPwWZ5yOjH7v9wNuUCTy_GwVKf0bf_B43KUsyZiP6LC3TZHfHv0UDNQF8dr1SF14o-F5kS3dkGveAp0u0y3PTNe1Py89WGD3eimXzMPWn_eC6yOKqr9jsanYB2WLlTqFtxFupUAkj2aGEVh6yXSJypcpP4kMprc8FbaLV-i_5M0mx_jCoOBn1mBLO5iWM-mgHDoaVy2CoxjHiuRWccFHoo2t3JBenUh2x09QkJoHcVFLosF6I3GT9WdgjCFO_XgM1Nt-i3n7dKYtdfIr6DSt0zf7SQKByvukPABRUK7r2v3Bm6FzQFiNC88-8xR2wjX2teho8CYWzp53135tARXsCDqFu4pQeJvU6mpZW_OTpNQfXdJWJFZDWW0ZMCxp1CIu8HVl1aAE2OQ2pXDjSH4oHTaJ5eYlt_wj-WGr0R2QOQk_UtmR3knoChGSTTB6TVr1o28ZAKBTcE9zcwbL3CFc4aGIP_fJDxqeU-lrNCcismMm7EuagipF3csYorbJWEWHbPYXUBYDdNgt6TSQs18VaIE03CWFqeF5msu2cAAyPZKrDWC90FqdIgh_tmbbezrBdD3tVuiyUM8IA-mAErfKXEXjq7JF_58A) | Dataset | Not Available | harisushehu@gmail.com stokat@pau.edu.tr md.sharif@uoh.edu.sa uyaver@tau.edu.tr |
-| [Comparison of N-stage Latent Dirichlet Allocation versus Other Topic Modeling Methods for Emotion Analysis](https://avesis.yildiz.edu.tr/yayin/713d263f-bb7a-49a5-92e3-130515d6d02c/comparison-of-n-stage-latent-dirichlet-allocation-versus-other-topic-modeling-methods-for-emotion-analysis) | Dataset | Not Available | zekeriya.anil.guven@ege.edu.tr diri@yildiz.edu.tr txcakaloglu@ualr.edu |
-| [An Annotated Turkish Aspect Based Sentiment Analysis Corpus for Smart Tourism](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9599037) | [Turkish Tourism ABSA Dataset](https://github.com/salurumut/Turkish-Aspect-Based-Sentiment-Analysis-Corpus-for-Smart-Tourism) | Publicly Available | mehmetumut.salur@gibtu.edu.tr iaydin@firat.edu.tr |
-| [Twitter Dataset and Evaluation of Transformers for Turkish Sentiment Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9477814&casa_token=x9OIXvmFAcYAAAAA:O0iEKC4ozn_WZ0UWZAKFtyhll-FJAv5GVHb2st2rLXy5QPAAO7-E10HcEB-xG3IfRMBN3cGggw) | [BounTİ Turkish Sentiment Analysis](https://github.com/boun-tabi/BounTi-Turkish-Sentiment-Analysis) | Publicly Available | abdullatif.koksal@boun.edu.tr arzucan.ozgur@boun.edu.tr |
-| [Aspect Based Twitter Sentiment Analysis on Vaccination and Vaccine Types in COVID-19 Pandemic With Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9640526&casa_token=by-s7bN7B8wAAAAA:FHLwDVxCTBaAlhBn6HQeeXOInW8OFPni-83tVN6P8sM97ZGbDECwIsZcIcc2A_ymIugqmBH0YQ) | [Covid 19 Vaccination Dataset](https://github.com/IrfanAygun/Covid-19-Vaccination-Dataset-and-Sentiment-Analysis) | Publicly Available | irfan.aygun@cbu.edu.tr bkaya@firat.edu.tr kaya@firat.edu.tr |
-| [TRSAv1: A New Benchmark Dataset for Classifying User Reviews on Turkish E-commerce Websites](https://journals.sagepub.com/doi/pdf/10.1177/01655515221074328?casa_token=SLDsalgZ0ocAAAAA:BCfUE8HCg62kFfbNKJUJIrEHRIGly74-6uLd1ibIIOI7sWtDuoDu2pschxtGze4Oyhg26bJoUWP_) | [TRSAv1](https://github.com/maydogan23/TRSAv1-Dataset) | Publicly Available | m.aydogan@firat.edu.tr |
-| [Multi-Label Classification of E-Commerce Customer Reviews via Machine Learning](https://www.mdpi.com/2075-1680/11/9/436) | [Turkish E-Commerce Reviews Dataset](https://github.com/emredeniz18/data) | Publicly Available | mustafacosar@hitit.edu.tr |
-| [Sentimental Analysis of Twitter Users from Turkish Content with Natural Language Processing](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2022/2455160) | [The Public Dataset](https://www.kaggle.com/datasets/mrtbeyz/trke-sosyal-medya-paylam-veri-seti) & [SentimentSet](https://www.kaggle.com/datasets/caglaballi/sentimentset) | Publicly Available | alok.mishra@himolde.no |
-| [A Dataset and BERT-based Models for Targeted Sentiment Analysis on Turkish Texts](https://arxiv.org/pdf/2205.04185) | Dataset | Not Available | melih.mutlu@boun.edu.tr arzucan.ozgur@boun.edu.tr |
-| [A Novel COVID-19 Sentiment Analysis in Turkish based on the Combination of Convolutional Neural Network and Bidirectional Long-short Term Memory on Twitter](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.6883?casa_token=60k59dpfdCkAAAAA:fdTiJ7U4gU1dZ2xJCoVTKqs1VWPjn8nyFXCZnhixv6hzmfgmxZukp3ib2CZ-OFudsTVukG6vypUGPQ) | COVID-19 Dataset | Not Available | talhakabakus@duzce.edu.tr |
-| [Opinion Mining Using LSTM Networks Ensemble for Multi-class Sentiment Analysis in E-commerce](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9998264) | Dataset | Not Available | dalnahas@infina.com.tr fasik@infina.com.tr akanturvardar@infina.com.tr mulkgun@infina.com.tr | 
-| [BERT-based Transfer Learning Model for COVID-19 Sentiment Analysis on Turkish Instagram Comments](https://www.itc.ktu.lt/index.php/ITC/article/view/30276) | Dataset1 & Dataset2 | Not Available | d2014242@mersin.edu.tr akdagli@mersin.edu.tr caci@mersin.edu.tr |
-
+| [Shehu et al., 2021](https://doi.org/10.1109/ACCESS.2021.3071393) | Stemmed Turkish Twitter Dataset | Twitter | Available Upon Request | harisushehu@ecs.vuw.ac.nz |
+| [Köksal & Özgür, 2021](https://doi.org/10.1109/SIU53274.2021.9477814) | [BounTi: Turkish Sentiment Twitter Dataset](https://github.com/boun-tabi/BounTi-Turkish-Sentiment-Analysis) | Twitter | Public | abdullatif.koksal@boun.edu.tr |
+| [Kemaloğlu, Küçüksille & Özgünsür, 2021](https://doi.org/10.16984/saufenbilder.872227) | Turkish Social Media Sentiment Dataset | Twitter | Not Available | nkemaloglu@mehmetakif.edu.tr ecirkucuksille@sdu.edu.tr eozgunsur@gmail.com |
+| [Aydın, Öztürk & Çiçek, 2021](https://doi.org/10.17718/tojde.961825) | Turkish ODE Twitter Dataset | Twitter | Not Available | zergul@eskisehir.edu.tr |
+| [Aygün, Kaya & Kaya, 2021](https://doi.org/10.1109/JBHI.2021.3133103) | [COVID-19 Vaccine Sentiment Dataset (TR & EN)](https://github.com/IrfanAygun/Covid-19-Vaccination-Dataset-and-Sentiment-Analysis) | Twitter | Public | irfan.aygun@cbu.edu.tr |
+| [Aydoğan & Kocaman, 2022](https://doi.org/10.1177/01655515221074328) | [TRSAv1: Turkish E-commerce Reviews](https://github.com/maydogan23?tab=projects) | Turkish e-commerce websites | Public | murat.aydogan@firat.edu.tr |
+| [Ballı et al., 2022](https://doi.org/10.1155/2022/2455160) | [SentimentSet](https://www.kaggle.com/caglaballi/sentimentset), Public Datset *Reused from [Beyaz (2021)](https://www.kaggle.com/mrtbeyz/trke-sosyal-medya-paylam-veriseti)* | Twitter | Public | alok.mishra@himolde.no |
+| [Mutlu & Özgür, 2022](https://arxiv.org/abs/2205.04185) | [Turkish Targeted Sentiment Twitter Dataset](https://github.com/melihmutlu/targeted-sentiment-analysis-turkish) | Twitter | Public (Tweet IDs) | melih.mutlu@boun.edu.tr |
+| [Kabakus, 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9074424/pdf/CPE-34-0.pdf) | Turkish COVID-19 Twitter Dataset | Twitter | Available Upon Request | talhakabakus@duzce.edu.tr |
+| [Güven, 2022](https://doi.org/10.1145/3557892) | [TSAD: Turkish Hotel & Movie Reviews](http://humirapps.cs.hacettepe.edu.tr/tsad.aspx) *Reused from [Uçan et al., 2016]* | Beyazperde.com, Otelpuan.com | Public | anilguven1055@gmail.com |
+| [Erkan & Güngör, 2023](https://doi.org/10.1109/ACCESS.2023.3337354) | [Semeval 2016 Turkish Restaurant Reviews](https://alt.qcri.org/semeval2016/task5/) *Reused from [Pontiki et al., 2016]*, [Beyazperde Movie Reviews](http://humirapps.cs.hacettepe.edu.tr/tsad.aspx) *Reused from [Uçan et al., 2016]* | Twitter, Beyazperde.com | Public | ali.erkan@boun.edu.tr  |
+| [Alnahas et al., 2022](https://doi.org/10.1109/IISEC56263.2022.9998264) | Turkish E-commerce Reviews Dataset | Turkish e-commerce websites | Not Available | dalnahas@infina.com.tr |
+| [Karayiğit et al., 2022](http://dx.doi.org/10.5755/j01.itc.51.3.30276) | [Turkish Instagram COVID-19 Comments Dataset](https://github.com/habibekarayigit/Turkish_Datasets) | Instagram | Public | d2014242@mersin.edu.tr |
+| [Demir & Bilgin, 2023](https://doi.org/10.1109/UBMK59864.2023.10286719) | Turkish News Sentiment Dataset | Turkish news articles (source unspecified) | Not Available | engindemir@uludag.edu.tr |
+| [Abdellatif et al., 2023](https://doi.org/10.1109/ICCIT58132.2023.10273894) | Turkish Twitter & Hepsiburada Dataset | Twitter, Hepsiburada.com | Not Available | atabdellatif@fsm.edu.tr |
+| [Altınok, 2023](https://aclanthology.org/2023.acl-long.768) | [Beyazperde Reviews](https://github.com/turkish-nlp-suite/BeyazPerde-Movie-Reviews), [Supplements Reviews](https://github.com/turkish-nlp-suite/Vitamins-Supplements-Reviews), [Corona-mini](https://github.com/turkish-nlp-suite/Corona-mini-dataset) | Beyazperde.com, Vitaminler.com, Ekşi Sözlük | Public | duygu.altinok@deepgram.com |
+| [Tohma et al., 2023](https://doi.org/10.1109/ACCESS.2023.3291592) | [DS1](https://www.kaggle.com/datasets/mesutbeyaz/turkish-social-media-comments-dataset) *Reused from [Beyaz (2021)]*, [SentimentSet](https://www.kaggle.com/datasets/ozlerhakan/twitter-sentiment-analysis-dataset) *Reused from [Özler (2021)]*, SCD (custom QA dataset) | Twitter, Social Media, QA Dialogues | 2 Public, 1 Not Available | kadir.tohma@iste.edu.tr |
+| [Aydın, Güngör & Erkan, 2023](https://arxiv.org/pdf/2001.01269) | [Movie Reviews](https://github.com/cemrifki/sentiment-embeddings/tree/main/movie_reviews_dataset), [Twitter Dataset](https://github.com/cemrifki/sentiment-embeddings/tree/main/twitter_dataset) | Beyazperde.com, Twitter | Public | cemrifkiaydin@gmail.com |
+| [Yılmaz & Altunay, 2023](https://doi.org/10.1016/j.teler.2023.100094) | Turkish Smartphone Reviews Dataset  | E-commerce Platforms (Trendyol, Hepsiburada, N11, GittiGidiyor, Amazon Türkiye) | Available Upon Request | mustafa.yilmaz@samsun.edu.tr halealtunay@isparta.edu.tr |
+| [Ezin, Kiziltepe & Karakus, 2024](https://doi.org/10.1109/UBMK63289.2024.10773485) | [TRSAv1](https://github.com/maydogan23/TRSAv1-Dataset) *Reused from [Aydogan & Kocaman, 2023]*, [VSCR](https://github.com/turkish-nlp-suite/Vitamins-Supplements-Reviews) *Reused from [Altinok, 2023]* | E-commerce Platforms | Public | ercan.ezin@harran.edu.tr |
+| [Özdemir, Giritli & Can, 2024](https://doi.org/10.1109/UBMK63289.2024.10773456) | [Turkish Hotel Reviews Dataset](https://github.com/AtaOnur/Sentimel-Analysis-Hotel-Reviews) | Booking Platforms | Public | ataonur@isik.edu.tr |
+| [Kiziltepe, Ezin & Karakus, 2024](https://doi.org/10.1109/ASYU62119.2024.10757130) | [VSCR](https://github.com/turkish-nlp-suite/Vitamins-Supplements-Reviews) *Reused from [Altinok, 2023]*, [TRSAv1](https://github.com/maydogan23/TRSAv1-Dataset) *Reused from [Aydogan & Kocaman, 2023]* | E-commerce Platforms | Public | rukiye.savrankiziltepe@ktu.edu.tr |
+| [Polat et al., 2024](https://doi.org/10.1109/ACCESS.2024.3496867) | Couple Dialogue Dataset | In-lab conversations (Özyeğin University) | Not Public | nafiye.polat@ozu.edu.tr |
+| [Ba Alawi & Bozkurt, 2024](https://doi.org/10.1109/SIU61531.2024.10600970) | Turkish University Twitter Dataset | Twitter | Not Available | baalawi.abdulfattah@gmail.com |
+| [Ba Alawi & Bozkurt, 2024](https://doi.org/10.1007/s13369-024-09360-4) | VS1 - Turkish Higher Education Dataset (THED), VS2 - *Reused from [Ucan et al. (2016)](http://humirapps.cs.hacettepe.edu.tr/tsad.aspx)* | Twitter (X), Hotel Reviews | THED: Not Public, HRD: Public | baalawi.abdulfattah@gmail.com, fbozkurt@atauni.edu.tr |
+| [Nasution & Onan, 2024](https://doi.org/10.1109/ACCESS.2024.3402809) | DTC (Topic), DTSA (Sentiment), DEC (Emotion) | Newspapers, Twitter, Turkish literature | Not Public | aytug.onan@ikcu.edu.tr |
+| [Onan & Balbal, 2024](https://doi.org/10.1109/ACCESS.2024.3349971) | [TRSAv1](https://github.com/maydogan23/TRSAv1-Dataset) *Reused from [Aydogan & Kocaman, 2023](https://doi.org/10.1177/01655515221074328)*, Turkish Emotions Dataset, MR (Amazon), Swahili News Dataset | E-commerce, Blogs, Amazon Reviews, News Articles | Public, Not Public | aytug.onan@ikcu.edu.tr |
+| [Bozuyla, 2023](https://doi.org/10.1145/3626523) | Turkish Drug Review Dataset | eksisozluk.com, drugs.com (translated) | Not Public | mbozuyla05@posta.pau.edu.tr |
+| [Cam et al., 2024](https://doi.org/10.1016/j.heliyon.2023.e23784) | Financial Turkish Twitter Dataset | Twitter (#Borsaistanbul, #Bist, #Bist30, #Bist100) | Not Public | hcam@gumushane.edu.tr |
+| [Ba Alawi & Bozkurt, 2024](https://doi.org/10.1016/j.dajour.2024.100473) | Turkish Universities Twitter Dataset | Twitter | Available Upon Request | baalawi.abdulfattah@gmail.com |
+| [Najafi & Varol, 2023](https://arxiv.org/abs/2311.18063) | [VRLSentiment](https://github.com/VRL-Lab/VRLSentiment), [TSATweets](https://github.com/sercankulcu/sentiment-analysis-of-tweets-in-Turkish) *Reused from Kulcu (2015)*, [Kemik-17bin](http://www.kemik.yildiz.edu.tr/veri_kumelerimiz.html) *Reused from Amasyalı et al. (2018)*, [Kemik-3000](http://www.kemik.yildiz.edu.tr/veri_kumelerimiz.html) *Reused from Amasyalı et al. (2018)*, [BOUN (BounTi)](https://github.com/boun-tabi/BounTi-Turkish-Sentiment-Analysis) *Reused from Köksal & Özgür (2021)*, [TSAD](https://huggingface.co/datasets/winvoker/turkish-sentiment-analysis-dataset) *Reused from Uçan et al. (2016)* | Twitter | Public | onur.varol@sabanciuniv.edu |
+| [Zümberoğlu et al., 2025](https://doi.org/10.3390/app15042062) | [FSMTSAD](https://github.com/kevserbusrayildirim/FSMTSAD), [BOUN (BounTi)](https://github.com/boun-tabi/BounTi-Turkish-Sentiment-Analysis) *Reused from Köksal & Özgür (2021)* | Tweets, Product & Service Reviews | Public | ssahmoud@fsm.edu.tr |
+| [Özmen & Gündüz, 2025](https://doi.org/10.3390/app15052297) | Turkish Cosmetic Product Reviews Dataset | E-commerce Reviews (Trendyol) | Not Public | cgokce.elkovan@hku.edu.tr sgunduz@atu.edu.tr |
+| [Kaya, Fidan & Toroslu, 2012](https://doi.org/10.1109/WI-IAT.2012.115) | Turkish Political News Columns Dataset | News Columns (6 Turkish newspapers) | Not Public | mesut.kaya@agmlab.com |
+| [Sağlam, Sever & Genç, 2016](https://doi.org/10.1109/SIU.2016.7495900) | SWNetTR *Reused from [Uçan, 2014](http://www.cs.hacettepe.edu.tr/lisansustu/files/aucanmaster.pdf)*, [SWNetTR-GDELT](https://www.gdeltproject.org/data.html), SWNetTR-PLUS, MLTC | News Media (GDELT), Turkish Lexicons | Public, Not Public | fsaglam@kho.edu.tr sever@hacettepe.edu.tr burkay.genc@hacettepe.edu.tr  |
+| [Makinist et al., 2018](https://arxiv.org/abs/1801.09975) | Improved Turkish Movie Review Dataset | Turkish movie review website (collected via Apache MCF) | Not Public | semihamakinist@gmail.com |
 
 
 ## Usage
